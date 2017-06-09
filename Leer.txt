@@ -1,0 +1,10 @@
+el programa debe ser ejecutado desde C:\PADRON
+
+toma el archivo de texto con los siguientes nombres:
+
+retenciones.txt
+percepciones.txt
+
+Genera un tercer archivo que se llama:
+
+padron.txt
